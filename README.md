@@ -1482,4 +1482,6 @@ step requires information that lives only in my head, mark it
 
 Content licensed [CC BY 4.0](LICENSE): use these prompts at work, share them, adapt them — just credit [claudecoworktraining.com](https://claudecoworktraining.com), where the full written guides and [live team training](https://claudecoworktraining.com/teams/training/) live.
 
+Created and maintained by [Peter Velinov](https://claudecoworktraining.com/about/), Claude Certified Architect – Foundations and founder of [Metamorfeus](https://metamorfeus.com). Metamorfeus, the example company in these materials, is a fictionalized version of his real consultancy — all course data is synthetic.
+
 *Independent training resource. Not affiliated with or endorsed by Anthropic. Claude and Claude Cowork are trademarks of Anthropic, PBC.*
